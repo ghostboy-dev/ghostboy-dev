@@ -6,7 +6,7 @@
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostboy00&show_icons=true&theme=radical" alt="ghostboy00" img />
         </p>
         <a href="https://github.com/ghostboy-dev/">
-            <img src="https://github-stats-alpha.vercel.app/api?username=ghostboy00&cc=0d1117&tc=fff&ic=fff&bc=0d1117" height="180" width="auto" />
+            <img src="https://github-stats-alpha.vercel.app/api?username=ghostboy-dev&cc=0d1117&tc=fff&ic=fff&bc=0d1117" height="180" width="auto" />
         </a>
     </div>
 </div>
